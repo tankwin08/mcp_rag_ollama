@@ -1,0 +1,20 @@
+[project]
+name = "mcp-server-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bs4>=0.0.2",
+    "dotenv>=0.9.9",
+    "exa-py>=1.12.1",
+    "faiss-cpu>=1.11.0",
+    "firecrawl-py>=2.5.3",
+    "httpx>=0.28.1",
+    "langchain-community>=0.3.23",
+    "langchain-core>=0.3.58",
+    "langchain-ollama>=0.3.2",
+    "mcp[cli]>=1.7.0",
+    "ollama>=0.4.8",
+    "tavily-python>=0.7.1",
+]
