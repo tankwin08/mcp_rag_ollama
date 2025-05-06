@@ -1,8 +1,4 @@
-Okay, I can help you complete your `README.md` based on the steps you've started and the context of building a RAG application with Langchain, MCP, and Ollama, similar to the linked article.
 
-Here's a more comprehensive `README.md`:
-
-```markdown:/Users/tankwin08/Desktop/projects/personal/mcp_rag_ollama/README.md
 # MCP RAG Ollama Project
 
 This project demonstrates a Retrieval Augmented Generation (RAG) system using Langchain, the MCP framework (likely `FastMCP`), and local Large Language Models (LLMs) served via Ollama. It allows for web searching, content processing, and querying an AI agent backed by local models.
