@@ -7,6 +7,7 @@ import search
 import rag
 
 # Configure environment
+#https://medium.com/data-science-collective/langchain-mcp-rag-ollama-the-key-to-powerful-agentic-ai-91529b2fa320
 
 
 async def main():
